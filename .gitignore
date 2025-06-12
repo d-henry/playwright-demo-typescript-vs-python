@@ -1,0 +1,11 @@
+# Node
+node_modules/
+playwright-report/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
