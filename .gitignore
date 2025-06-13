@@ -1,6 +1,7 @@
 # Node
 node_modules/
 playwright-report/
+playwright-ts-demo/test-results/
 *.log
 
 # Python
